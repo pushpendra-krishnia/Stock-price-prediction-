@@ -17,4 +17,3 @@ To build the stock price prediction model, we will use the NSE TATA GLOBAL datas
 
 https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Data/NSE-Tata-Global-Beverages-Limited.zip
 
-Give it a :star: if you like it.
